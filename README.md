@@ -29,3 +29,9 @@
 - Visitor
 
 ## My [Mindmap](https://whimsical.com/design-patterns-copy-NrASg1FBt4v4VUAGmgLUBz)
+
+### Resources
+- [Dive Into DESIGN PATTERNS](https://refactoring.guru/design-patterns/book)
+
+### Tools used
+- [Mind Mapping](https://whimsical.com/)
